@@ -1,12 +1,12 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+title: Wilfred Chan
+description: Wilfred Chan's Data Repository
+author: Wilfred Chan
+logo: static/img/avatar.png
+github: https://wilfredchankwong.github.io
+about: Python, R, SQ, Machine Learning
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://wilfredchankwong.github.io"
+url: "https://wilfredchankwong.github.io"
 
 allowsearch: true
 
