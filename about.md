@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About | Wilfred Chan's Data Repository
+title: About
 permalink: /about/
 ---
 
