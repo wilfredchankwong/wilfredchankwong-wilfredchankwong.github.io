@@ -10,8 +10,8 @@ url: "https://wilfredchankwong.github.io"
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: -aboutashu
+google_analytics: -UA-72862926-1
 
 share:
   twitter_username: \#
