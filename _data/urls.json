@@ -15,16 +15,17 @@
     "url": "/projects",
     "icon": "fa-desktop"
   },
-  {
+  /*{
     "text": "Resume",
     "url": "/#",
     "icon": "fa-graduation-cap",
+    "target": _blank
   },
   {
     "text": "Github",
     "url": "/#",
     "icon": "fa-github"
-  },
+  },*/
   {
     "text": "XML Feed",
     "url": "/feed.xml",
