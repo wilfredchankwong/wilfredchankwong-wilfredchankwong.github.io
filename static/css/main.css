@@ -62,7 +62,7 @@ p.info a {
     display: inline-block;
 }
 .icon:hover {
-    color: rgba(255, 255, 255, 0.63);
+    color: #FFFFFF;
     background: #A6192E;
 }
 .menu ul li {
